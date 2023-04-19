@@ -1,0 +1,19 @@
+{
+  "name": "urai",
+  "version": "1.0.0",
+  "description": "Interactive shell in terminal for chatgpt.",
+  "main": "urai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajaravivarman/urai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajaravivarman/urai/issues"
+  },
+  "homepage": "https://github.com/rajaravivarman/urai#readme"
+}
