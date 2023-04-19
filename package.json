@@ -1,5 +1,6 @@
 {
   "name": "urai",
+  "type": "module",
   "version": "1.0.0",
   "description": "Interactive shell in terminal for chatgpt.",
   "main": "urai.js",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rajaravivarman/urai/issues"
   },
-  "homepage": "https://github.com/rajaravivarman/urai#readme"
+  "homepage": "https://github.com/rajaravivarman/urai#readme",
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
 }
